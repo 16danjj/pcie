@@ -6,7 +6,7 @@ A PCIe controller implemented in SystemVerilog, covering ordered set generation,
 
 ## Schematic
 
-Coming soon ! 
+![schematic](img/pcie.001.png.png)
 
 ---
 
